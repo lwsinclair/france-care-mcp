@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/anragde-france-care-mcp-badge.png)](https://mseep.ai/app/anragde-france-care-mcp)
+
 # France Care MCP Server
 
 Serveur WebSocket pour le service MCP (Model Context Protocol) de France Care Medical.
